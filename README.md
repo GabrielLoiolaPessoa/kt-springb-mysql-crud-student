@@ -2,7 +2,7 @@
 
 ## Another CRUD operation with the entity student. But, in this time, i pick Kotlin instead Java. Enjoy.
 
-### To run this repository, you will need the IDE that you want (I highly recommend Intellij Idea), MySQL and Maven installed in your machine.
+### To run this repository, you will need the IDE that you want (I highly recommend Intellij Idea), JDK, MySQL and Maven installed in your machine.
 
 #### Use the commands below in your terminal:
 

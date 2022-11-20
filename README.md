@@ -19,18 +19,18 @@ $ git clone git@github.com:GabrielLoiolaPessoa/kt-springb-mysql-crud-student.git
 
 #### Open the project in Intellij (or other IDE) wait for the standart build of the IDE. After that, put the comments below in terminal od IDE:
 
-
-
 ```
 $ mvn clean install
 ```
-
+##### And for run:
 ```
 $ mvn spring-boot:run
 ```
+##### Now the project is running locally on your machine.
+
 #
 
-#### Now you can test the CRUD in Postman with the next urls.
+#### You can test the CRUD in Postman with the next urls.
 
 For GET:
 ```

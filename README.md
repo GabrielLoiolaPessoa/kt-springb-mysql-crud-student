@@ -26,7 +26,12 @@ $ mvn clean install
 ```
 $ mvn spring-boot:run
 ```
+###### If you have some problem with the command above, just stop the project and run again with "shift + F10"
+
+#
+
 ##### Now the project is running locally on your machine.
+##### Congrats!
 
 #
 
